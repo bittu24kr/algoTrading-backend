@@ -1,1 +1,1 @@
-# algoTrading-backend
+# Algorithm Trading Backend
